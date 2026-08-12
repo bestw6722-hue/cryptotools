@@ -1,0 +1,4 @@
+function money(n){return Number(n||0).toLocaleString(undefined,{maximumFractionDigits:2})}
+function saveKey(){localStorage.setItem('cg_demo_key',document.getElementById('apiKey').value.trim());document.getElementById('keyStatus').textContent='Saved in this browser.'}
+function loadKey(){let k=localStorage.getItem('cg_demo_key')||'';let e=document.getElementById('apiKey');if(e)e.value=k}
+async function livePrice(id, target){let key=localStorage.getItem('cg_demo_key');if(!key){document.getElementById(target).textContent='Add API key for live price';return}try{let r=await fetch('https://api.coingecko.com/api/v3/simple/price?ids='+encodeURIComponent(id)+'&vs_currencies=usd&x_cg_demo_api_key='+encodeURIComponent(key));let j=await r.json();document.getElementById(target).textContent=j[id]?.usd?('$'+money(j[id].usd)):'Price unavailable'}catch(e){document.getElementById(target).textContent='Price unavailable'}}loadKey();
