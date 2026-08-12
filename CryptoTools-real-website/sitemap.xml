@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>/</loc></url><url><loc>/about.html</loc></url><url><loc>/contact.html</loc></url><url><loc>/privacy.html</loc></url><url><loc>/disclosure.html</loc></url><url><loc>/tools/crypto-profit-calculator.html</loc></url><url><loc>/tools/bitcoin-dca-calculator.html</loc></url><url><loc>/tools/crypto-fee-calculator.html</loc></url><url><loc>/tools/position-size-calculator.html</loc></url><url><loc>/tools/market-cap-calculator.html</loc></url><url><loc>/tools/crypto-converter.html</loc></url><url><loc>/learn/crypto-dca.html</loc></url><url><loc>/learn/crypto-fees.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/tools/crypto-profit-calculator.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/tools/bitcoin-dca-calculator.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/tools/crypto-fee-calculator.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/tools/position-size-calculator.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/tools/market-cap-calculator.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/tools/crypto-converter.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/learn/crypto-dca.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/learn/crypto-fees.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/privacy.html</loc>
+  </url>
+
+  <url>
+    <loc>https://6a7c167da98dcf0223a44f92--bespoke-hamster-d8d2f2.netlify.app/disclosure.html</loc>
+  </url>
+
+</urlset>
